@@ -1,50 +1,567 @@
 [
   {
     "xAxis": {
-      "category": "Persentase Rasio Guru Murid SMK",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Jumlah Guru SMK ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "data": [
-        "2012",
         "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          90.06,
-          90.46,
-          90.93,
-          90.45,
-          91.08
+          618,
+          638,
+          638
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Persentase Rasio Guru Murid SMK",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Jumlah Murid SMK ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "data": [
-        "2012",
         "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          93.87,
-          93.83,
-          94.06,
-          93.82,
-          94.39
+          17586,
+          17582,
+          17588
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          351,
+          363,
+          363
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          277,
+          286,
+          713
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          14771,
+          15295,
+          14599
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          188,
+          187,
+          488
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          809,
+          904,
+          4113
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          47147,
+          47145,
+          47975
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          172,
+          192,
+          857
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          294,
+          343,
+          343
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          17638,
+          19348,
+          19368
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          167,
+          177,
+          177
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1601,
+          1531,
+          1531
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          55711,
+          45047,
+          45072
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          287,
+          340,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          405,
+          345,
+          668
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          9597,
+          9948,
+          10011
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          422,
+          347,
+          667
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          559,
+          551,
+          1074
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          17837,
+          18526,
+          18156
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          313,
+          297,
+          592
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          455,
+          587,
+          1071
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          26571,
+          29400,
+          29431
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          171,
+          200,
+          364
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMK ",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.018,
+          5.185,
+          10.151
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMK ",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          206.858,
+          202.291,
+          202.2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMK ",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          243,
+          256,
+          502
         ]
       }
     ]
