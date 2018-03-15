@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kabupaten Pandeglang ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -22,7 +22,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kabupaten Pandeglang",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -43,7 +43,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kabupaten Pandeglang",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -64,7 +64,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kabupaten Lebak",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -85,7 +85,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kabupaten Lebak",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -106,7 +106,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kabupaten Lebak",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -127,7 +127,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kabupaten Tangerang",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -148,7 +148,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kabupaten Tangerang",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -169,7 +169,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kabupaten Tangerang",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -190,7 +190,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kabupaten Serang",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -211,7 +211,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kabupaten Serang",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -232,7 +232,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kabupaten Serang",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -253,7 +253,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kota Tangerang",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -274,7 +274,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kota Tangerang",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -295,7 +295,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kota Tangerang",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -316,7 +316,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kota Cilegon",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -337,7 +337,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kota Cilegon",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -358,7 +358,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kota Cilegon",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -379,7 +379,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kota Serang",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -400,7 +400,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kota Serang",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -421,7 +421,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kota Serang",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -442,7 +442,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Kota Tangerang Selatan",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -463,7 +463,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Kota Tangerang Selatan",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -484,7 +484,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Kota Tangerang Selatan",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -505,7 +505,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMK ",
+      "title": "Jumlah Guru SMK Provinsi Banten",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -517,16 +517,16 @@
     "series": [
       {
         "data": [
-          5.018,
-          5.185,
-          10.151
+          5018,
+          5185,
+          10151
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMK ",
+      "title": "Jumlah Murid SMK Provinsi Banten",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -538,16 +538,16 @@
     "series": [
       {
         "data": [
-          206.858,
-          202.291,
-          202.2
+          206858,
+          202291,
+          202200
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "RGM SMK ",
+      "title": "RGM SMK Provinsi Banten",
       "region": "Provinsi",
       "name": "Banten",
       "data": [

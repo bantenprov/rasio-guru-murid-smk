@@ -5,239 +5,15 @@
       "region": "Kabupaten",
       "name": "Pandeglang",
       "yyyy": "2013",
-      "index": "Pandeglang-2013"
+      "title": "Jumlah Guru SMK Provinsi Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 618,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 17586,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 351,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "yyyy": "2013",
-      "index": "Lebak-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 277,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 14771,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 188,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "yyyy": "2013",
-      "index": "Tangerang-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 809,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 47147,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 172,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "yyyy": "2013",
-      "index": "Serang-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 294,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 17638,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 167,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang",
-      "yyyy": "2013",
-      "index": "Tangerang-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 1601,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 55711,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 287,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon",
-      "yyyy": "2013",
-      "index": "Cilegon-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 405,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 9597,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 422,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang",
-      "yyyy": "2013",
-      "index": "Serang-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 559,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 17837,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 313,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "yyyy": "2013",
-      "index": "Tangerang Selatan-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 455,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 26571,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 171,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 5.018,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 206.858,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 243,
-            "name": "RGM SMK"
-          }
+          {"value":5018,"name":"2013"},
+          {"value":5185,"name":"2014"},
+          {"value":10151,"name":"2015"}
+          
         ]
       }
     ]
@@ -247,240 +23,16 @@
       "type": "category",
       "region": "Kabupaten",
       "name": "Pandeglang",
-      "yyyy": "2014",
-      "index": "Pandeglang-2014"
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Provinsi Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 638,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 17582,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 363,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "yyyy": "2014",
-      "index": "Lebak-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 286,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 15295,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 187,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "yyyy": "2014",
-      "index": "Tangerang-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 904,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 47145,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 192,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "yyyy": "2014",
-      "index": "Serang-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 343,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 19348,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 177,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang",
-      "yyyy": "2014",
-      "index": "Tangerang-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 1531,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 45047,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 340,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon",
-      "yyyy": "2014",
-      "index": "Cilegon-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 345,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 9948,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 347,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang",
-      "yyyy": "2014",
-      "index": "Serang-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 551,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 18526,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 297,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "yyyy": "2014",
-      "index": "Tangerang Selatan-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 587,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 29400,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 200,
-            "name": "RGM SMK"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 5.185,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 202.291,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 256,
-            "name": "RGM SMK"
-          }
+          {"value":206858,"name":"2013"},
+          {"value":202291,"name":"2014"},
+          {"value":202200,"name":"2015"}
+          
         ]
       }
     ]
@@ -490,24 +42,16 @@
       "type": "category",
       "region": "Kabupaten",
       "name": "Pandeglang",
-      "yyyy": "2015",
-      "index": "Pandeglang-2015"
+      "yyyy": "2013",
+      "title": "RGM SMK Provinsi Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 638,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 17588,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 363,
-            "name": "RGM SMK"
-          }
+          {"value":243,"name":"2013"},
+          {"value":256,"name":"2014"},
+          {"value":502,"name":"2015"}
+          
         ]
       }
     ]
@@ -516,25 +60,17 @@
     "xAxis": {
       "type": "category",
       "region": "Kabupaten",
-      "name": "Lebak",
-      "yyyy": "2015",
-      "index": "Lebak-2015"
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kabupaten Pandeglang"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 713,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 14599,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 488,
-            "name": "RGM SMK"
-          }
+          {"value":618,"name":"2013"},
+          {"value":638,"name":"2014"},
+          {"value":638,"name":"2015"}
+          
         ]
       }
     ]
@@ -543,25 +79,17 @@
     "xAxis": {
       "type": "category",
       "region": "Kabupaten",
-      "name": "Tangerang",
-      "yyyy": "2015",
-      "index": "Tangerang-2015"
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kabupaten Pandeglang"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 4113,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 47975,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 857,
-            "name": "RGM SMK"
-          }
+          {"value":17586,"name":"2013"},
+          {"value":17582,"name":"2014"},
+          {"value":17588,"name":"2015"}
+          
         ]
       }
     ]
@@ -570,25 +98,16 @@
     "xAxis": {
       "type": "category",
       "region": "Kabupaten",
-      "name": "Serang",
-      "yyyy": "2015",
-      "index": "Serang-2015"
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kabupaten Pandeglang"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 343,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 19368,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 177,
-            "name": "RGM SMK"
-          }
+          {"value":351,"name":"2013"},
+          {"value":363,"name":"2014"},
+          {"value":363,"name":"2015"}      
         ]
       }
     ]
@@ -596,26 +115,18 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Tangerang",
-      "yyyy": "2015",
-      "index": "Tangerang-2015"
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kabupaten Lebak"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 1531,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 45072,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 340,
-            "name": "RGM SMK"
-          }
+          {"value":277,"name":"2013"},
+          {"value":286,"name":"2014"},
+          {"value":713,"name":"2015"}
+          
         ]
       }
     ]
@@ -623,26 +134,18 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Cilegon",
-      "yyyy": "2015",
-      "index": "Cilegon-2015"
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kabupaten Lebak"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 668,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 10011,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 667,
-            "name": "RGM SMK"
-          }
+          {"value":14771,"name":"2013"},
+          {"value":15295,"name":"2014"},
+          {"value":14599,"name":"2015"}
+          
         ]
       }
     ]
@@ -650,26 +153,17 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Serang",
-      "yyyy": "2015",
-      "index": "Serang-2015"
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kabupaten Lebak"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 1074,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 18156,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 592,
-            "name": "RGM SMK"
-          }
+          {"value":188,"name":"2013"},
+          {"value":187,"name":"2014"},
+          {"value":488,"name":"2015"}      
         ]
       }
     ]
@@ -677,26 +171,18 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "yyyy": "2015",
-      "index": "Tangerang Selatan-2015"
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kabupaten Tangerang"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 1071,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 29431,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 364,
-            "name": "RGM SMK"
-          }
+          {"value":809,"name":"2013"},
+          {"value":904,"name":"2014"},
+          {"value":4113,"name":"2015"}
+          
         ]
       }
     ]
@@ -704,26 +190,316 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015"
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kabupaten Tangerang"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 10.151,
-            "name": "Jumlah Guru SMK "
-          },
-          {
-            "value": 202.2,
-            "name": "Jumlah Murid SMK"
-          },
-          {
-            "value": 502,
-            "name": "RGM SMK"
-          }
+          {"value":47147,"name":"2013"},
+          {"value":47145,"name":"2014"},
+          {"value":47975,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kabupaten Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":172,"name":"2013"},
+          {"value":192,"name":"2014"},
+          {"value":857,"name":"2015"}      
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kabupaten Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":294,"name":"2013"},
+          {"value":343,"name":"2014"},
+          {"value":343,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kabupaten Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17638,"name":"2013"},
+          {"value":19348,"name":"2014"},
+          {"value":19368,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kabupaten Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":167,"name":"2013"},
+          {"value":177,"name":"2014"},
+          {"value":177,"name":"2015"}      
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":1601,"name":"2013"},
+          {"value":1531,"name":"2014"},
+          {"value":1531,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":55711,"name":"2013"},
+          {"value":45047,"name":"2014"},
+          {"value":45072,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":287,"name":"2013"},
+          {"value":340,"name":"2014"},
+          {"value":340,"name":"2015"}      
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":405,"name":"2013"},
+          {"value":345,"name":"2014"},
+          {"value":668,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":9597,"name":"2013"},
+          {"value":9948,"name":"2014"},
+          {"value":10011,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kota cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":422,"name":"2013"},
+          {"value":347,"name":"2014"},
+          {"value":667,"name":"2015"}      
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":559,"name":"2013"},
+          {"value":551,"name":"2014"},
+          {"value":1074,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17837,"name":"2013"},
+          {"value":18526,"name":"2014"},
+          {"value":18156,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":313,"name":"2013"},
+          {"value":297,"name":"2014"},
+          {"value":592,"name":"2015"}      
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMK Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":455,"name":"2013"},
+          {"value":587,"name":"2014"},
+          {"value":1071,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMK Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":26571,"name":"2013"},
+          {"value":29400,"name":"2014"},
+          {"value":29431,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2013",
+      "title": "RGM SMK Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":171,"name":"2013"},
+          {"value":200,"name":"2014"},
+          {"value":364,"name":"2015"}      
         ]
       }
     ]

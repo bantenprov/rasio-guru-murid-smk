@@ -41,7 +41,7 @@ $ git clone https://github.com/bantenprov/rasio-guru-murid-smk.git
     Illuminate\Foundation\Providers\ConsoleSupportServiceProvider::class,
     Illuminate\Cookie\CookieServiceProvider::class,
     //....
-    Bantenprov\RasioGMSmk\RasioGMSmkServiceProvider::class,
+    Bantenprov\RasioGMSMK\RasioGMSMKServiceProvider::class,
 
 ```
 
@@ -70,15 +70,16 @@ children: [
   },
   //== ...
   {
-    path: '/dashboard/rasio-guru-murid-smk',
-    components: {
-      main: resolve => require(['./components/views/bantenprov/rasio-guru-murid-smk/DashboardRasioGMSmk.vue'], resolve),
-      navbar: resolve => require(['./components/Navbar.vue'], resolve),
-      sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
-    },
-    meta: {
-      title: "Rasio Guru-Murid (RGM) SMK"
-    }
+        path: '/dashboard/rasio-guru-murid-smk',
+        components: {
+          main: resolve => require(['./components/views/bantenprov/rasio-guru-murid-smk/DashboardRasioGMSMK.vue'], resolve),
+          navbar: resolve => require(['./components/Navbar.vue'], resolve),
+          sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
+        },
+        meta: {
+          title: "Rasio Guru-Murid (RGM) SMK"
+        }
+      }
   }
 ```
 
@@ -90,16 +91,16 @@ component: resolve => require(['./AdminLayout.vue'], resolve),
 children: [
 //== ...
     {
-      path: '/admin/dashboard/rasio-guru-murid-smk',
-      components: {
-        main: resolve => require(['./components/bantenprov/rasio-guru-murid-smk/RasioGMSmkAdmin.show.vue'], resolve),
-        navbar: resolve => require(['./components/Navbar.vue'], resolve),
-        sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
+        path: '/admin/dashboard/rasio-guru-murid-smk',
+        components: {
+          main: resolve => require(['./components/bantenprov/rasio-guru-murid-smk/RasioGMSMKAdmin.show.vue'], resolve),
+          navbar: resolve => require(['./components/Navbar.vue'], resolve),
+          sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
+        },
+        meta: {
+          title: "Rasio Guru-Murid (RGM) SMK"
+        }
       },
-      meta: {
-        title: "Rasio Guru-Murid (RGM) SMK"
-      }
-    }
  //== ...   
   ]
 },
@@ -138,37 +139,37 @@ children: [
 
 ```javascript
 
-import RasioGMSmk from './components/bantenprov/rasio-guru-murid-smk/RasioGMSmk.chart.vue';
-Vue.component('echarts-rasio-guru-murid-smk', RasioGMSmk);
+import RasioGMSMK from './components/bantenprov/rasio-guru-murid-smk/RasioGMSMK.chart.vue';
+Vue.component('echarts-rasio-guru-murid-smk', RasioGMSMK);
 
-import RasioGMSmkKota from './components/bantenprov/rasio-guru-murid-smk/RasioGMSmkKota.chart.vue';
-Vue.component('echarts-rasio-guru-murid-smk-kota', RasioGMSmkKota);
+import RasioGMSMKKota from './components/bantenprov/rasio-guru-murid-smk/RasioGMSMKKota.chart.vue';
+Vue.component('echarts-rasio-guru-murid-smk-kota', RasioGMSMKKota);
 
-import RasioGMSmkTahun from './components/bantenprov/rasio-guru-murid-smk/RasioGMSmkTahun.chart.vue';
-Vue.component('echarts-rasio-guru-murid-smk-tahun', RasioGMSmkTahun);
+import RasioGMSMKTahun from './components/bantenprov/rasio-guru-murid-smk/RasioGMSMKTahun.chart.vue';
+Vue.component('echarts-rasio-guru-murid-smk-tahun', RasioGMSMKTahun);
 
-import RasioGMSmkAdminShow from './components/bantenprov/rasio-guru-murid-smk/RasioGMSmkAdmin.show.vue';
-Vue.component('admin-view-rasio-guru-murid-smk-tahun', RasioGMSmkAdminShow);
+import RasioGMSMKAdminShow from './components/bantenprov/rasio-guru-murid-smk/RasioGMSMKAdmin.show.vue';
+Vue.component('admin-view-rasio-guru-murid-smk-tahun', RasioGMSMKAdminShow);
 
-//== Echarts Angka Partisipasi Kasar
+//== Echarts Rasio Guru Murid SMK
 
-import RasioGMSmkBar01 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSmkBar01.vue';
-Vue.component('rasio-guru-murid-smk-bar-01', RasioGMSmkBar01);
+import RasioGMSMKBar01 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSMKBar01.vue';
+Vue.component('rasio-guru-murid-smk-bar-01', RasioGMSMKBar01);
 
-import RasioGMSmkBar02 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSmkBar02.vue';
-Vue.component('rasio-guru-murid-smk-bar-02', RasioGMSmkBar02);
+import RasioGMSMKBar02 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSMKBar02.vue';
+Vue.component('rasio-guru-murid-smk-bar-02', RasioGMSMKBar02);
 
 //== mini bar charts
-import RasioGMSmkBar03 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSmkBar03.vue';
-Vue.component('rasio-guru-murid-smk-bar-03', RasioGMSmkBar03);
+import RasioGMSMKBar03 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSMKBar03.vue';
+Vue.component('rasio-guru-murid-smk-bar-03', RasioGMSMKBar03);
 
-import RasioGMSmkPie01 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSmkPie01.vue';
-Vue.component('rasio-guru-murid-smk-pie-01', RasioGMSmkPie01);
+import RasioGMSMKPie01 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSMKPie01.vue';
+Vue.component('rasio-guru-murid-smk-pie-01', RasioGMSMKPie01);
 
-import RasioGMSmkPie02 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSmkPie02.vue';
-Vue.component('rasio-guru-murid-smk-pie-02', RasioGMSmkPie02);
+import RasioGMSMKPie02 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSMKPie02.vue';
+Vue.component('rasio-guru-murid-smk-pie-02', RasioGMSMKPie02);
 
 //== mini pie charts
-import RasioGMSmkPie03 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSmkPie03.vue';
-Vue.component('rasio-guru-murid-smk-pie-03', RasioGMSmkPie03);
+import RasioGMSMKPie03 from './components/views/bantenprov/rasio-guru-murid-smk/RasioGMSMKPie03.vue';
+Vue.component('rasio-guru-murid-smk-pie-03', RasioGMSMKPie03);
 ```
