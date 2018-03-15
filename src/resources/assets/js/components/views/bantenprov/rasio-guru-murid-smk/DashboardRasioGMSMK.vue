@@ -36,7 +36,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Guru Murid SMK Berdasarkan Wilayah
+            Rasio Guru Murid SMK Berdasarkan Tahun
           </div>
           <div class="card-body">
             <rasio-guru-murid-smk-pie-01></rasio-guru-murid-smk-pie-01>
@@ -63,7 +63,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Guru Murid SMK Berdasarkan Kategori
+            Rasio Guru Murid SMK Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <rasio-guru-murid-smk-bar-02></rasio-guru-murid-smk-bar-02>
